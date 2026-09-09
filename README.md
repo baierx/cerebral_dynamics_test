@@ -1,2 +1,2 @@
 # cerebral_dynamics_test
-Main website and course platform"
+Main website and course platform
