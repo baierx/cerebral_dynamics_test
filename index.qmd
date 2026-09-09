@@ -1,7 +1,10 @@
 ---
 title: "Cerebral Dynamics"
+subtitle: "Research & Educational Platform"
 ---
 
-This is a Quarto website.
+Welcome to the Cerebral Dynamics platform. This site hosts course modules, interactive computational notebooks, and research resources.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Quick Links
+
+* [About the Project](about.qmd)
