@@ -8,3 +8,5 @@ Welcome to the Cerebral Dynamics platform. This site hosts course modules, inter
 ## Quick Links
 
 * [About the Project](about.qmd)
+
+2026 Gerold Baier, University College London
