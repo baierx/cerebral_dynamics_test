@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cerebraldynamics.net/about.html</loc>
-    <lastmod>2026-09-09T14:31:05.811Z</lastmod>
+    <loc>https://cerebraldynamics.net/networks_tutorial/network_perturbations.html</loc>
+    <lastmod>2026-09-29T14:32:04.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cerebraldynamics.net/quarto_tutorial/hello.html</loc>
+    <lastmod>2026-09-29T14:32:04.851Z</lastmod>
   </url>
   <url>
     <loc>https://cerebraldynamics.net/index.html</loc>
-    <lastmod>2026-09-09T14:31:05.811Z</lastmod>
+    <lastmod>2026-09-29T14:32:04.847Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cerebraldynamics.net/about.html</loc>
+    <lastmod>2026-09-29T14:32:04.847Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cerebraldynamics.net/roessler_tutorial/test_polar_roessler.html</loc>
+    <lastmod>2026-09-29T14:32:04.859Z</lastmod>
   </url>
 </urlset>
