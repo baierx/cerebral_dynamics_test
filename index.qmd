@@ -7,6 +7,12 @@ Welcome to the Cerebral Dynamics platform. This site hosts course modules, inter
 
 ## Quick Links
 
-* [About the Project](about.qmd)
+* [About the Project](about.qmd
+
+## Notebooks & Resources
+
+* [View Quarto Notebook](quarto_tutorial/hello.ipynb)
+* [View Roessler Notebook](roessler_tutorial/test_polar_roessler.ipynb)
+* [View Networks Notebook](networks_tutorial/network_perturbations.ipynb)
 
 2026 Gerold Baier, University College London

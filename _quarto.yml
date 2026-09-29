@@ -1,5 +1,11 @@
 project:
   type: website
+  render:
+    - index.qmd
+    - about.qmd
+    - quarto_tutorial/hello.ipynb
+    - roessler_tutorial/test_polar_roessler.ipynb
+    - networks_tutorial/network_perturbations.ipynb
 
 website:
   title: "Cerebral Dynamics"
